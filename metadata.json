@@ -1,0 +1,6 @@
+{
+  "name": "Akomoda Glosarium Digital",
+  "description": "Mesin pencari, crawler web mandiri, dan glosarium digital multibahasa berbasis AI Gemini & Web2.5 yang dioptimalkan untuk domain akomodanetwork.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
